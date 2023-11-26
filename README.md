@@ -25,7 +25,7 @@ result=np.linalg.solve(A,B)
 print(result)
 ```
 ## Output:
-![linear eqn](https://github.com/JerowinGeo/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147139744/6b21d70f-8590-48c2-9ab7-21b130743ba4)
+![image](https://github.com/JerowinGeo/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147139744/26dbf316-0448-4d58-9ca1-306ed2eb172b)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
